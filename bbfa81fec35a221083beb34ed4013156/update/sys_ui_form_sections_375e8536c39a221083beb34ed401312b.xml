@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="375e8536c39a221083beb34ed401312b" sys_domain="global" table="sn_customerservice_csm_case2" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-26 11:56:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c6e8536c39a221083beb34ed4013154</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_csm_case2" name="sn_customerservice_csm_case2" sys_domain="global" view="Default view">375e8536c39a221083beb34ed401312b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sn_customerservice_csm_case2" sys_domain="global" view="Default view">486e8536c39a221083beb34ed4013145</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-26 11:56:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-26 11:56:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>086e8536c39a221083beb34ed401313d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_csm_case2" name="sn_customerservice_csm_case2" sys_domain="global" view="Default view">375e8536c39a221083beb34ed401312b</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="sn_customerservice_csm_case2" sys_domain="global" view="Default view">486e8536c39a221083beb34ed4013135</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-26 11:56:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-26 11:56:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c06e8536c39a221083beb34ed4013145</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_csm_case2" name="sn_customerservice_csm_case2" sys_domain="global" view="Default view">375e8536c39a221083beb34ed401312b</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="sn_customerservice_csm_case2" sys_domain="global" view="Default view">8c6e8536c39a221083beb34ed401313d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-26 11:56:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-26 11:56:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c06e8536c39a221083beb34ed4013135</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_csm_case2" name="sn_customerservice_csm_case2" sys_domain="global" view="Default view">375e8536c39a221083beb34ed401312b</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="sn_customerservice_csm_case2" sys_domain="global" view="Default view">7f5e8536c39a221083beb34ed401312d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-26 11:56:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_customerservice_csm_case2</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-26 11:56:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>375e8536c39a221083beb34ed401312b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_customerservice_csm_case2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="csm_fsm" source="x_1755511_csm_fsm">bbfa81fec35a221083beb34ed4013156</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="csm_fsm">bbfa81fec35a221083beb34ed4013156</sys_scope>
+            <sys_update_name>sys_ui_form_sections_375e8536c39a221083beb34ed401312b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-26 11:56:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
